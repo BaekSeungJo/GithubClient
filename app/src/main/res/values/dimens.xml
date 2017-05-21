@@ -1,0 +1,8 @@
+<!--
+  ~ Copyright (c) 2017. PLNC. All Rights Reserved.
+  -->
+
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="dot_height">40dp</dimen>
+</resources>
